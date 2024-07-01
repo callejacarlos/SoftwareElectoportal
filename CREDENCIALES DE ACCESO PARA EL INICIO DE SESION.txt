@@ -1,0 +1,11 @@
+---ADMINISTRADOR---
+USER: admin
+PASSWORD: 12345
+
+---CALLCENTER----
+USER: callcenter
+PASSWORD: 12345
+
+---DIGITADOR---
+USER: digitador
+PASSWORD: 12345
